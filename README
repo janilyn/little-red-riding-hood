@@ -1,0 +1,1 @@
+This program makes use of an intelligent agent to simulate Little Red Riding Hood walking through the woods to reach Granny. This agent is built to avoid the pits and the wolf and collect flowers and bread determined by their input coordinates. This program has two modes (auto and step-by-step) that the user can pick.
